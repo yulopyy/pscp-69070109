@@ -1,0 +1,10 @@
+"""dasdasda"""
+def main():
+    """dsadasd"""
+    num = str(input())
+    if num[2] == '1' and num[3] == '6':
+        print('YES')
+    else :
+        print('NO')
+
+main()
