@@ -3,8 +3,8 @@ def main():
     """dsadasd"""
     num = str(input())
     if num[2] == '1' and num[3] == '6':
-        print('YES')
+        print('yes')
     else :
-        print('NO')
+        print('no')
 
 main()
